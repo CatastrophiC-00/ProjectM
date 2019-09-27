@@ -1,6 +1,7 @@
 @extends('layouts.master')
 @section('content')
-	<div class="container">
+<img src="..." class="img-fluid" alt="Responsive image">
+	<div class="container mt-5">
 		<div class="card">
 			<div class="card-header">
 				Login
